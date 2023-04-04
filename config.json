@@ -1,0 +1,20 @@
+{
+    "companies": [
+      {
+        "name": "IBM"
+      },
+      {
+        "name": "MSFT"
+      },
+      {
+        "name": "AAPL"
+      },
+      {
+        "name": "AMZN"
+      },
+      {
+        "name": "GOOGL"
+      }
+    ]
+  }
+  
